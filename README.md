@@ -4,6 +4,8 @@
 Hey!
 
 I am a software engineer currently studying fullstack web development at General Assembly. I mainly know and use standard front-end technologies like HTML, CSS, and JavaScript. I am located in Nashville, TN.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperwhitley&theme=github_dark_dimmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cooperwhitley&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 

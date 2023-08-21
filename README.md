@@ -1,7 +1,7 @@
 # Cooper Whitley
 <img src="./assets/github-header.png" alt="Pixel art header with text that reads 'Cooper Whitley' along with a sprite rendering of Cooper" style="display: block; margin-left: auto; margin-right: auto;">
 
-Hey!
+## Hey!
 
 I am a software engineer currently studying fullstack web development at General Assembly. I mainly know and use standard front-end technologies like HTML, CSS, and JavaScript. I am located in Nashville, TN.
 

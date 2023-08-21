@@ -28,5 +28,5 @@ I love to keep myself busy with little distractions when I'm not coding, here's 
 - Computers (What Linux distro are you using? Have you upgraded your computers lately?)
 
 ## Github Stats
-[![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperwhitley)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperwhitley)](https://github.com/anuraghazra/github-readme-stats)
+[![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperwhitley&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperwhitley&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)

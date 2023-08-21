@@ -4,7 +4,8 @@
 Hey!
 
 I am a software engineer currently studying fullstack web development at General Assembly. I mainly know and use standard front-end technologies like HTML, CSS, and JavaScript. I am located in Nashville, TN.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperwhitley&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperwhitley&theme=github_dark_dimmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cooperwhitley&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me!
 
@@ -30,8 +31,8 @@ I love to keep myself busy with little distractions when I'm not coding, here's 
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cooperwhitley&repo=morpheusmelee&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cooperwhitley&repo=betterdice&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cooperwhitley&repo=morpheusmelee&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cooperwhitley&repo=betterdice&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Stats
-[![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperwhitley&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperwhitley&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)

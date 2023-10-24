@@ -3,7 +3,7 @@
 
 ## Hey!
 
-I am a software engineer currently studying fullstack web development at General Assembly. I mainly know and use standard front-end technologies like HTML, CSS, and JavaScript. I am located in Nashville, TN.
+I am a software engineer who just completed a program studying fullstack web development at General Assembly. I mainly know and use common web stacks like MERN and Python/Django. I am located in Nashville, TN.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperwhitley&theme=github_dark_dimmed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,13 +12,14 @@ I am a software engineer currently studying fullstack web development at General
 ## Contact Me!
 
 - LinkedIn: https://www.linkedin.com/in/cooperwhitley/
-- Email: whitleycooperr@gmail.com
+- Primary Email: cooper@cooperwhitley.dev
+- Secondary Email: whitleycooperr@gmail.com
 
 ## Coding Interests
 
-- I am super committed to open source, watch out for the projects I've been contributing to! (Once I start doing that)
+- I am super committed to open source
 - I love making small stupid games, check them out in my repos!
-- I'm working on learning how to make plug-ins for DAWs, look for that soon!
+- I would love to begin working with non-profits and other firms creating positive change in the world
 
 ## Ask Me About
 
